@@ -12,7 +12,7 @@ I enjoy developing responsive web applications, working with REST APIs, and solv
 
 **Backend:** Node.js, Express.js
 
-**Database:** MongoDB, MySQL
+**Database:** MongoDB
 
 **Programming:** Python, JavaScript
 
